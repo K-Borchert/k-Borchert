@@ -23,6 +23,6 @@
 <li>📣https://sessionize.com/KathrinBorchert/ (Sessionize Profile)</li> 
 <li>⚡https://powerusers.microsoft.com/t5/PPHHUG-Power-Platform-Hamburg/gh-p/PPHUG-PowerPlatformHamburgUserGroup (Power Platform User Group Hamburg) </li> 
 <li>🪀 Hobbies:<p> 
-✒️Writing, 📖Reading, 🍪Baking, 🪡Swewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <p></li> 
+✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <p></li> 
 <li>🎧 Alternative Rock, Part-time Metal </li>
 </ul>
