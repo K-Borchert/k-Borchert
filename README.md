@@ -14,6 +14,9 @@
   <a href="https://www.tiktok.com/@power_bi">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
+   <a href="https://www.yodabi.com/">
+    <img src="https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+  </a>
 </div>
 <br>
 <div id="header" align="center">
