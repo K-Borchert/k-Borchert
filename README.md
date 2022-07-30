@@ -24,7 +24,7 @@
 <ul>
 <li>
 🦄 Kathrin Borchert </li> 
-<li>💬 Nothing is impossible If you believe!</li> 
+<li>💬 Nothing is impossible if you only believe in it</li> 
 <li>💗 Passion for Data, #PowerBI, UI/UX, ReportDesign, REST API, Governance and Teaching</li> 
 <li>⌨️ New Project: #PowerBI REST API with #Postman </li> 
 <li>🌟Logo creator for PowerBIDays & Power Break</li> 
