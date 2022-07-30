@@ -1,7 +1,8 @@
 <b><h1>#Kathrin Borchert GitHub Profile - Who?</h1></b>
 
-
-<div id="badges">
+<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=K-Borcherte&style=flat-square&color=blue" alt=""/></div>
+<br>
+<div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/k-borchert/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
