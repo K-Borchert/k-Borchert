@@ -12,6 +12,12 @@
   <a href="https://twitter.com/Mirrortears">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    </a>
+  <a href="https://www.tiktok.com/@power_bi">
+    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  
+  https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white
 </div>
 <br>
 <div id="header" align="center">
