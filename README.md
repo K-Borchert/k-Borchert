@@ -40,9 +40,9 @@
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Borchert&theme=light&background=ffffff&show_icons=true&theme=radical)
 
----
+<br>
 
-### :writing_hand: Blog Posts :
+## :writing_hand:Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Top 5: Power BI Tips of the Day](https://www.yodabi.com/top-5-power-bi-tips-of-the-day/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-power-bi-tips-of-the-day)
 - [The ultimate Power BI JSON Theme](https://www.yodabi.com/power-bi-ultimate-json-theme/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-ultimate-json-theme)
