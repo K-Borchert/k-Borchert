@@ -13,11 +13,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 <br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/>
+</div>
 <br>
 
-
+## About
 
 <ul>
 <li>
@@ -33,7 +35,7 @@
 ✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <p></li> 
 <li>🎧 Alternative Rock, Part-time Metal </li>
 </ul>
-<br></br>
+<br>
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Borchert&theme=light&background=ffffff&show_icons=true&theme=radical)
