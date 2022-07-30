@@ -44,4 +44,8 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Top 5: Power BI Tips of the Day](https://www.yodabi.com/top-5-power-bi-tips-of-the-day/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-power-bi-tips-of-the-day)
+- [The ultimate Power BI JSON Theme](https://www.yodabi.com/power-bi-ultimate-json-theme/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-ultimate-json-theme)
+- [Power BI Service – 5 Tips how to help your Users](https://www.yodabi.com/power-bi-service-5-tips/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-service-5-tips)
+- [Power BI and Power Automate](https://www.yodabi.com/power-bi-and-power-automate/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-and-power-automate)
 <!-- BLOG-POST-LIST:END -->
