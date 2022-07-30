@@ -1,9 +1,8 @@
 <b><h1>#Kathrin Borchert GitHub Profile - Who?</h1></b>
 
 
-🔗<a href="https://www.linkedin.com/in/kathrin-borchert-445807159/">
-<button> LinkedIN </button>
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-borchert/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mirrortears)
+<br>
    🎞️<a href="https://www.youtube.com/channel/UC6nEaIKn3ffJG6otCqNSMlA">
 <button> YouTube </button>
 </a>
