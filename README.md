@@ -16,8 +16,6 @@
   <a href="https://www.tiktok.com/@power_bi">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
-  
-  https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white
 </div>
 <br>
 <div id="header" align="center">
@@ -28,19 +26,17 @@
 ## About
 
 <ul>
-<li>
-🦄 Kathrin Borchert </li> 
+<li>🦄 Kathrin Borchert </li> 
 <li>💬 Nothing is impossible if you only believe in it</li> 
 <li>💗 Passion for Data, #PowerBI, UI/UX, ReportDesign, REST API, Governance and Teaching</li> 
 <li>⌨️ New Project: #PowerBI REST API with #Postman </li> 
 <li>🌟Logo creator for PowerBIDays & Power Break</li> 
-<li>📽️ https://www.youtube.com/channel/UC6nEaIKn3ffJG6otCqNSMlA (Youtube)</li> 
-<li>📣https://sessionize.com/KathrinBorchert/ (Sessionize Profile)</li> 
-<li>⚡https://powerusers.microsoft.com/t5/PPHHUG-Power-Platform-Hamburg/gh-p/PPHUG-PowerPlatformHamburgUserGroup (Power Platform User Group Hamburg) </li> 
-<li>🪀 Hobbies:<p> 
-✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <p></li> 
-<li>🎧 Alternative Rock, Part-time Metal </li>
 </ul>
+<br>
+
+### Hobbies:<br> 
+✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <br>
+🎧 Alternative Rock, Part-time Metal <br>
 <br>
 
 ## GitHub Stats
