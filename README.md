@@ -35,6 +35,5 @@
 <br></br>
 
 ## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Borchert&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Borchert&theme=light&background=ffffff&show_icons=true&theme=radical)
 
