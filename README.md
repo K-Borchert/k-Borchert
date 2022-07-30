@@ -32,3 +32,6 @@
 ✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <p></li> 
 <li>🎧 Alternative Rock, Part-time Metal </li>
 </ul>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Borchert&theme=dark&background=000000)](https://git.io/streak-stats)
+
