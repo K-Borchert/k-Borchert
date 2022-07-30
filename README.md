@@ -1,6 +1,4 @@
 <b><h1>#Kathrin Borchert GitHub Profile - Who?</h1></b>
-
-<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=K-Borcherte&style=flat-square&color=blue" alt=""/></div>
 <br>
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/k-borchert/">
@@ -21,6 +19,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=K-Borcherte&style=flat-square&color=blue" alt=""/></div>
 <br>
 
 ## About
