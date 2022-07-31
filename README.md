@@ -40,6 +40,9 @@
 ✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <br>
 🎧 Alternative Rock, Part-time Metal <br>
 🎞️ Disney Movies (most of them), Dr. Who, Star Trek, Star Wars, Musicals in general ...<br>
+<div id="header">
+  <img src="https://media.giphy.com/media/JLVGpNAj0CqDS/giphy.gif" width="100"/>
+</div>
 <br>
 
 ## GitHub Stats
