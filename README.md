@@ -1,4 +1,4 @@
-<b><h1> #Kathrin Borchert GitHub Profile- Who?</h1></b>
+<b><h1> Kathrin Who?</h1></b>
 <br>
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/k-borchert/">
