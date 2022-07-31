@@ -39,6 +39,7 @@
 ### Hobbies:<br> 
 ✒️Writing, 📖Reading, 🍪Baking, 🪡Sewing, 😺😺😺 Cat cuddeling, 🧑‍🌾 Gardening <br>
 🎧 Alternative Rock, Part-time Metal <br>
+🎞️ Disney Movies (most of them), Dr. Who, Star Trek, Star Wars, Musicals in general ...<br>
 <br>
 
 ## GitHub Stats
