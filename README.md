@@ -52,8 +52,8 @@
 
 ## :writing_hand:Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Fabric Monitoring Notebooks](https://www.yodabi.com/fabric-monitoring-notebooks/?utm_source=rss&utm_medium=rss&utm_campaign=fabric-monitoring-notebooks)
 - [Fabric capacity switch](https://www.yodabi.com/fabric-capacity-switch/?utm_source=rss&utm_medium=rss&utm_campaign=fabric-capacity-switch)
 - [Unleashing the Power of AI in Power BI](https://www.yodabi.com/unleashing-the-power-of-ai-in-power-bi/?utm_source=rss&utm_medium=rss&utm_campaign=unleashing-the-power-of-ai-in-power-bi)
 - [The Magic of Microsoft Fabric: Simplifying the Complex for All](https://www.yodabi.com/the-magic-of-microsoft-fabric-simplifying-the-complex-for-all/?utm_source=rss&utm_medium=rss&utm_campaign=the-magic-of-microsoft-fabric-simplifying-the-complex-for-all)
-- [Power BI and Postman](https://www.yodabi.com/power-bi-and-postman/?utm_source=rss&utm_medium=rss&utm_campaign=power-bi-and-postman)
 <!-- BLOG-POST-LIST:END -->
