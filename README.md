@@ -45,9 +45,6 @@
 </div>
 <br>
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Borchert&theme=radical&show_icons=true)
-
 <br>
 
 ## ✍️ Latest Blog Posts
